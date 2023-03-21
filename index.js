@@ -12,7 +12,7 @@
   }
 
   const names = ['Guadalupe', 'Ollie', 'Aki'];
-const event = 'birthday';
+const event = 'surprise';
 
 const messages = writeCards(names,);
 console.log(messages);
@@ -22,7 +22,7 @@ console.log(messages);
     "Thank you, Aki, for the wonderful surprise gift!"
  ]
 
- 
+
  function countDown(num) {
     for (let i = num; i >= 0; i--) {
       console.log(i);
